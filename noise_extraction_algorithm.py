@@ -76,14 +76,14 @@ def pattern(matrix):
     return sum(all_terms)/nm #dividing sum of all terms by the number of entries in the matrix
 
 #Printing results
+print('') 
 print('Results')    
 print('System Noise:'+ str(round(system(mat), 2)))
 print('Level Noise:' + str(round(level(mat), 2)))
 print('Pattern Noise:' + str(round(pattern(mat), 2)))
 
-print('') 
-
 #checking that the equation holds
+print('') 
 print('Checking that they are equal:')
 print('System = ' + str(round(system(mat), 5)))
 print('Level + Pattern = ' + str(round(level(mat) + pattern(mat), 5)))
