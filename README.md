@@ -15,10 +15,10 @@ A *n x m* matrix with n decision makers who have recorded their decisions for m 
 
 **Output** 
 
-**System Noise:** Overall variability within system of judgments. This is then decomposed into:
+System Noise, which is the overall variability within system of judgments. This is then decomposed into:
 
-    - **Level Noise:** The variability of an individual’s average judgement ie. is a person harsher or more lenient on average?
-    - **Pattern Noise:** Variations due to individuals’ specific responses to cases/people ie.a generally harsh judge being unusually lenient with older defendants who shoplift. 
+- **Level Noise:** The variability of an individual’s average judgement ie. is a person harsher or more lenient on average?
+- **Pattern Noise:** Variations due to individuals’ specific responses to cases/people ie.a generally harsh judge being unusually lenient with older defendants who shoplift. 
 
 
 ***
