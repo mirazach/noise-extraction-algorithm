@@ -22,5 +22,4 @@ System Noise, which is the overall variability within system of judgments. This 
 
 
 ***
-You can find out more about the mathematical theory behind this algorithm in this article:  
-https://newnowgroup.medium.com/the-mathematics-of-noise-f74d0dcbe2b4
+You can find out more about the mathematical theory behind this algorithm in [this article](https://newnowgroup.medium.com/the-mathematics-of-noise-f74d0dcbe2b4)
